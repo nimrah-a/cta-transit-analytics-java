@@ -1,21 +1,21 @@
-# # CTA Transit Analytics System
+# CTA Transit Analytics System
 
-CTA Transit Analytics System is a Java console application that manages riders, routes, stations, and trips. Built using object-oriented programming, it features CRUD operations, search functionality, and transit analytics including route revenue, popular stations, and peak travel times.
+CTA Transit Analytics System is a Java console application for managing riders, routes, stations, and transit trips. Built using object-oriented programming principles, the system supports CRUD operations, trip searches, and transit analytics such as route revenue, popular stations, and peak versus off-peak travel patterns.
 
 ## Features
 
 - Manage riders, routes, stations, and trips
-- Add, update, view, and delete records
+- Add, view, update, and delete records
 - Search trips by route or station
-- Calculate route revenue
-- Find the most popular stations
-- Compare peak vs. off-peak travel
-- Menu-driven Java console interface
+- Calculate revenue by route
+- Identify the most popular stations
+- Compare peak and off-peak travel activity
+- Navigate through a menu-driven console interface
 
-  ## Technologies
+## Technologies
 
 - Java
 - IntelliJ IDEA
 - Object-Oriented Programming (OOP)
-- ArrayList Collections
-- Scanner
+- ArrayList collections
+- Scanner for user input
