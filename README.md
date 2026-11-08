@@ -1,4 +1,7 @@
 # CTA Transit Analytics System
+## Application Preview
+
+![CTA Transit Analytics System — Java Console Interface](cta-transit-preview.png)
 
 A **Java 17+ console application** for managing riders, routes, stations, and transit trips. The project demonstrates object-oriented programming, CRUD workflows, collection-backed repositories, input validation, referential integrity, and transit analytics.
 
